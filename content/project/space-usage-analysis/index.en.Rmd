@@ -1,5 +1,5 @@
 ---
-title: Understanding Space Usage 
+title: Understanding Space Usage
 author: R package build
 date: '2020-04-10'
 slug: space-usage-analysis

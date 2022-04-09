@@ -4,10 +4,10 @@ author: R package build
 date: '2018-12-10'
 slug: mars-platform
 links:
-- icon: link
-  icon_pack: far
-  name: app
-  url: remote_sensor_poster.pdf
+- icon: github
+  icon_pack: fab
+  name: repository
+  url: https://github.com/AndyTQ/The-Mars-Platform
 categories: ["Android Studio", "Java"]
 tags: ["software"]
 subtitle: ''
@@ -47,6 +47,3 @@ knitr::include_graphics(c("overview.png", "sudoku.png"))
 ## Growth 
 
 Through this project, I learned and practiced object-oriented programming using Java. In addition, the Mars platform was my first large project in a team environment. The time our team spent working together at Bahen center was one of the best memories of my undergraduate. I learned from this experience that teamwork is much more than five individuals working in parallel like threads. Creative solutions often come from team interactions.
-
-*Check the GitHub repo [here](https://github.com/AndyTQ/The-Mars-Platform
-)*

@@ -8,6 +8,10 @@ links:
   icon_pack: far
   name: poster
   url: remote_sensor_poster.pdf
+- icon: city
+  icon_pack: fas
+  name: School of Cities
+  url: https://www.schoolofcities.utoronto.ca/multidisciplinary-urban-capstone-project
 categories: []
 tags: []
 subtitle: ''
