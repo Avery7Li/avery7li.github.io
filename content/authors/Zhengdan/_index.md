@@ -41,6 +41,6 @@ superuser: true
 title: Zhengdan Li
 ---
 
-I am an undergraduate student in Computer Science and Data Science at the University of Toronto. I expect to graduate in June 2022 after which I will continue my study in data science at Stanford University. My genuine interest in statistics comes down to exploring how data can offer insights and guide people to make more informed decisions. Regarding the area of specialization, I am particularly interested in statistical learning. With my prior experience working as a software engineer intern, I am excited to combine my statistical knowledge with coding skills to provide programmable solutions to real-world challenges.
+I am a graduate candidate in Data Science at Stanford University. I graduated from the University of Toronto with specialists in Computer Science and Data Science in June 2022. My genuine interest in statistics comes down to exploring how data can offer insights and guide people to make more informed decisions. Regarding the area of specialization, I am particularly interested in statistical learning. With my prior experience working as a software engineer intern, I am excited to combine my statistical knowledge with coding skills to provide programmable solutions to real-world challenges.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
