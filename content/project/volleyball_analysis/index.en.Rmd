@@ -199,4 +199,5 @@ ggplotly(scatter_top_player)
 
 Although it is undeniable players’ individual capability is important for the game, team collaboration is the essence of volleyball. Depending on player skills and characteristics, different teams can arrange different strategies focusing on offense or defense. All players at all positions contribute to the game together and none of the positions is absolutely superior to another.
 
-*Check the full report [here](project_midterm.html)*
+*Check the full report [here](https://avery7li.github.io/jsc370-final/index.html
+)*
