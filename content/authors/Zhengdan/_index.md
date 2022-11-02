@@ -15,9 +15,9 @@ interests:
 - Statistical Inference
 - Natural Language Processing
 organizations:
-- name: University of Toronto
+- name: Stanford University
   # url: https://www.stanford.edu/
-role: Data Science Undergraduate
+role: Graduate Candidate in Data Science
 social:
 - icon: envelope
   icon_pack: fas
